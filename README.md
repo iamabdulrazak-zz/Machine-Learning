@@ -6,5 +6,5 @@ Python version: 3.8.0
 Python Libraries: (NumPy): pip install numpy, (Pandas): pip install pandas, (SkLearn): pip install scikit-learn, 
 
 ![](img/LR.png)
-![](img/DT.jpeg)
+![](img/DT.jpg)
 
